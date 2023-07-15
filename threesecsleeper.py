@@ -1,5 +1,5 @@
 import time
 
-print('[sub] started')
+print(' [sub] started')
 time.sleep(3)
-print('[sub] ended')
+print(' [sub] ended')
